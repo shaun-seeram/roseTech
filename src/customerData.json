@@ -1,0 +1,81 @@
+{
+    "1": {
+        "orderID": 1,
+        "description": "Construction Materials",
+        "driver": "Steve Williams",
+        "revenue": 4200.00,
+        "cost": 100.00
+    },
+
+    "2": {
+        "orderID": 2,
+        "description": "Construction Materials",
+        "driver": "Steve Williams",
+        "revenue": 3948.45,
+        "cost": 71.38
+    },
+
+    "3": {
+        "orderID": 3,
+        "description": "Wood and Lumber",
+        "driver": "Steve Williams",
+        "revenue": 1950.52,
+        "cost": 263.88
+    },
+
+    "4": {
+        "orderID": 4,
+        "description": "Wood and Lumber",
+        "driver": "Steve Williams",
+        "revenue": 4991.45,
+        "cost": 116.98
+    },
+
+    "5": {
+        "orderID": 5,
+        "description": "Meat",
+        "driver": "Chris Horton",
+        "revenue": 6739.72,
+        "cost": 279.17
+    },
+
+    "6": {
+        "orderID": 6,
+        "description": "Meat",
+        "driver": "Chris Horton",
+        "revenue": 3618.08,
+        "cost": 537.91
+    },
+
+    "7": {
+        "orderID": 7,
+        "description": "Fresh Produce",
+        "driver": "Chris Horton",
+        "revenue": 5345.91,
+        "cost": 420.69
+    },
+
+    "8": {
+        "orderID": 8,
+        "description": "Farm Supplies",
+        "driver": "Chris Horton",
+        "revenue": 7429.78,
+        "cost": 171.13
+    },
+
+    "9": {
+        "orderID": 9,
+        "description": "Cheetos",
+        "driver": "Chris Horton",
+        "revenue": 7231.98,
+        "cost": 310.38
+    },
+
+    "10": {
+        "orderID": 10,
+        "description": "Rose Rocket Swag",
+        "driver": "Alex Novak",
+        "revenue": 5404.24,
+        "cost": 350.79
+    }
+}
